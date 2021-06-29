@@ -1,0 +1,48 @@
+ERROR [Main.java:75] - sadfds
+DEBUG [Main.java:75] - sadfds
+DEBUG [Main.java:79] - --------------------------------
+DEBUG [Main.java:80] - *** Welcome to Sale Management Program ***
+DEBUG [Main.java:81] - 1. Login
+DEBUG [Main.java:82] - 0. Exit
+DEBUG [Main.java:83] - --------------------------------
+DEBUG [Main.java:84] - Your choice : 
+DEBUG [Main.java:79] - --------------------------------
+DEBUG [Main.java:80] - *** Welcome to Sale Management Program ***
+DEBUG [Main.java:81] - 1. Login
+DEBUG [Main.java:82] - 0. Exit
+DEBUG [Main.java:83] - --------------------------------
+DEBUG [Main.java:84] - Your choice : 
+DEBUG [Main.java:79] - --------------------------------
+DEBUG [Main.java:80] - *** Welcome to Sale Management Program ***
+DEBUG [Main.java:81] - 1. Login
+DEBUG [Main.java:82] - 0. Exit
+DEBUG [Main.java:83] - --------------------------------
+DEBUG [Main.java:84] - Your choice : 
+--------------------------------
+*** Welcome to Sale Management Program ***
+1. Login
+0. Exit
+--------------------------------
+Your choice : 
+--------------------------------
+*** Welcome to Sale Management Program ***
+1. Login
+0. Exit
+--------------------------------
+Your choice : 
+
+THANK YOU ! WELCOME BACK ^_^
+--------------------------------
+*** Welcome to Sale Management Program ***
+1. Login
+0. Exit
+--------------------------------
+Your choice : 
+
+THANK YOU ! WELCOME BACK ^_^
+
+Product group by the product category : 
+Product group by the product category : 
+pro1		1
+Product group by the product category : 
+pro1		1
